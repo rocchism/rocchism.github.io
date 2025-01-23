@@ -2,25 +2,21 @@
   "basics": {
     "name": "Sofia Rocchi",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/rocchism.png",
+    "email": "rocchism@dukes.jmu.edu",
+    "phone": "908-210-7771",
+    "website": "https://rocchism.github.io",
+    "summary": "I am pursuing a B.S. in Biology at James Madison University. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "22801", "city": "Harrisonburg", "countryCode": "USA", "region": "Virginia" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "rocchism", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "www.linkedin.com/in/sofia-rocchi-1313442b0", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Conservation Biology" },
+    { "name": "Ecological restoration" },
+    { "name": "Wildlife rehabilitation" }
   ],
   "skills": [
     {
@@ -34,8 +30,8 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "James Madison University, Harrisonburg, VA",
+      "area": "Biology (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
